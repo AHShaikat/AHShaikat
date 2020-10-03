@@ -11,7 +11,8 @@ Probably,I'm slow to reponse.....||
 - 💬 Ask me what you actually want to know from me? (It's better to ask nothing 😁)
 - 📫 Want to visit Sunset Monalisa.It's amazing. 🏝 🏖 🏞
 
-{Note: Skills & Other Things are Complicated.
+Note: Skills & Other Things are Complicated.
+[because Somethings are happening under the hood]
 Maybe,upload those,oneday.
-Hopefully,that day will come soon.......................}
+Hopefully,that day will come soon.......................
 😁😁😁
