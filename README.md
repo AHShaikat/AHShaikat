@@ -12,6 +12,6 @@ Probably,I'm slow to reponse.....||
 - 📫 Want to visit Sunset Monalisa.It's amazing. 🏝 🏖 🏞
 
 {Note: Skills & Other Things are Complicated.
-Maybe,upload those oneday.
-maybe,that day will come soon.......................}
+Maybe,upload those,oneday.
+Hopefully,that day will come soon.......................}
 😁😁😁
