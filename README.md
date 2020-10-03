@@ -9,8 +9,7 @@ Maybe I'm Slow to reply.....||
 - 👯 I’m looking to collaborate with my friend.(Unfortunately,he's going to explore the hilltrack.) 😒 🏔
 - 🤔 I’m looking for help with ...............||(Mission complicated & secret)😶🎲
 - 💬 Ask me what you actually want to know from me? (It's better to ask nothing )⚡📫
-[AHShaikat's github stats](https://github-readme-stats.vercel.app/api?username=AHShaikat&show_icons=true&theme=radical)
---> 
 
-
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/[ICON NAME].svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/[ICON NAME].svg" />
 
