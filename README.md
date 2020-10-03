@@ -1,5 +1,6 @@
 ### Hello World! 👋
-This is Shaikat from Dhaka
+
+This is Shaikat.Maybe 
 
 - 🔭 I’m currently working on no-where!(It's depressing😜)
 - 🌱 I’m currently learning how to waste my valuable time.
@@ -8,4 +9,7 @@ This is Shaikat from Dhaka
 - 🤔 I’m looking for help with ...............||(Mission complicated & secret)😶🎲
 - 💬 Ask me what you actually want to know from me? (It's better to ask nothing )⚡📫
 
+[AHShaikat's github stats](https://github-readme-stats.vercel.app/api?username=AHShaikat&show_icons=true&theme=radical)
+
+[AHShaikat's github stats](https://github-readme-stats.vercel.app/api?username=AHshaikat&show_icons=true)
 
