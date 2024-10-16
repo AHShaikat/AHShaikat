@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Al Hasan Shaikat</h1>
-<h3 align="center">Learner| DL Enthusiast| Researcher| Explorer| Electrical Engg.Graduate</h3>
+<h3 align="center">Learner| DL Enthusiast| Researcher| Explorer| Graduate@EEE </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahshaikat&label=Profile%20views&color=0e75b6&style=flat" alt="ahshaikat" /> </p>
 
