@@ -15,7 +15,6 @@
 
 - 💬 Ask me about **Anythings | Better Ask Nothing(:P)**
 
-- 📫 How to reach me **ahshaikat1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
