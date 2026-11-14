@@ -126,3 +126,5 @@ The solar farm on Bus 4 follows **today's real sunlight over Dhaka**, so the gri
 <p align="center"><img src="assets/divider.svg" width="100%" alt=""></p>
 
 <p align="center"><i>Always happy to talk about power systems, renewables, or research ideas.</i></p>
+
+This beautiful illustration is creadted with `ai`
