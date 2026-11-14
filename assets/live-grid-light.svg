@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600" viewBox="0 0 1000 600" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace">
+<defs><filter id="gl" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect x="1" y="1" width="998" height="598" rx="14" fill="#ffffff" stroke="#d0d7de" stroke-width="2"/>
+<circle cx="26" cy="26" r="5" fill="#cf222e"/><circle cx="44" cy="26" r="5" fill="#bf8700"/><circle cx="62" cy="26" r="5" fill="#0969da"/>
+<text x="84" y="31" font-size="12.5" fill="#57606a" letter-spacing="1.5">LIVE GRID · AC POWER FLOW · NEWTON-RAPHSON CONVERGED IN 5 ITER · MISMATCH 4e-15 PU</text>
+<line x1="16" y1="46" x2="984" y2="46" stroke="#d0d7de"/>
+<line x1="40" y1="52" x2="40" y2="478" stroke="#eef1f4" stroke-opacity=".45"/>
+<line x1="80" y1="52" x2="80" y2="478" stroke="#eef1f4" stroke-opacity=".45"/>
+<line x1="120" y1="52" x2="120" y2="478" stroke="#eef1f4" stroke-opacity=".45"/>
+<line x1="160" y1="52" x2="160" y2="478" stroke="#eef1f4" stroke-opacity=".45"/>
+<line x1="200" y1="52" x2="200" y2="478" stroke="#eef1f4" stroke-opacity=".45"/>
+<line x1="240" y1="52" x2="240" y2="478" stroke="#eef1f4" stroke-opacity=".45"/>
+<line x1="280" y1="52" x2="280" y2="478" stroke="#eef1f4" stroke-opacity=".45"/>
+<line x1="320" y1="52" x2="320" y2="478" stroke="#eef1f4" stroke-opacity=".45"/>
+<line x1="360" y1="52" x2="360" y2="478" stroke="#eef1f4" stroke-opacity=".45"/>
+<line x1="400" y1="52" x2="400" y2="478" stroke="#eef1f4" stroke-opacity=".45"/>
+<line x1="440" y1="52" x2="440" y2="478" stroke="#eef1f4" stroke-opacity=".45"/>
+<line x1="480" y1="52" x2="480" y2="478" stroke="#eef1f4" stroke-opacity=".45"/>
+<line x1="520" y1="52" x2="520" y2="478" stroke="#eef1f4" stroke-opacity=".45"/>
+<line x1="560" y1="52" x2="560" y2="478" stroke="#eef1f4" stroke-opacity=".45"/>
+<line x1="600" y1="52" x2="600" y2="478" stroke="#eef1f4" stroke-opacity=".45"/>
+<line x1="640" y1="52" x2="640" y2="478" stroke="#eef1f4" stroke-opacity=".45"/>
+<line x1="680" y1="52" x2="680" y2="478" stroke="#eef1f4" stroke-opacity=".45"/>
+<line x1="720" y1="52" x2="720" y2="478" stroke="#eef1f4" stroke-opacity=".45"/>
+<line x1="760" y1="52" x2="760" y2="478" stroke="#eef1f4" stroke-opacity=".45"/>
+<line x1="800" y1="52" x2="800" y2="478" stroke="#eef1f4" stroke-opacity=".45"/>
+<line x1="840" y1="52" x2="840" y2="478" stroke="#eef1f4" stroke-opacity=".45"/>
+<line x1="880" y1="52" x2="880" y2="478" stroke="#eef1f4" stroke-opacity=".45"/>
+<line x1="920" y1="52" x2="920" y2="478" stroke="#eef1f4" stroke-opacity=".45"/>
+<line x1="960" y1="52" x2="960" y2="478" stroke="#eef1f4" stroke-opacity=".45"/>
+<line x1="110" y1="150" x2="430" y2="110" stroke="#1a7f37" stroke-opacity=".18" stroke-width="9"/>
+<line x1="110" y1="150" x2="430" y2="110" stroke="#1a7f37" stroke-width="3" stroke-dasharray="10 9"><animate attributeName="stroke-dashoffset" from="19" to="0" dur="0.95s" repeatCount="indefinite"/></line>
+<rect x="261.0" y="121.0" width="18" height="18" fill="#cf222e" stroke="#ffc2c8"/>
+<rect x="201.0" y="143.0" width="138.0" height="17" rx="4" fill="#ffffff" fill-opacity=".85"/><text x="270.0" y="155.0" text-anchor="middle" font-size="11" fill="#1a7f37">CB1 · 103 MW · 69%</text>
+<line x1="110" y1="150" x2="300" y2="380" stroke="#1a7f37" stroke-opacity=".18" stroke-width="9"/>
+<line x1="110" y1="150" x2="300" y2="380" stroke="#1a7f37" stroke-width="3" stroke-dasharray="10 9"><animate attributeName="stroke-dashoffset" from="19" to="0" dur="1.07s" repeatCount="indefinite"/></line>
+<rect x="196.0" y="256.0" width="18" height="18" fill="#cf222e" stroke="#ffc2c8"/>
+<rect x="139.5" y="278.0" width="131.0" height="17" rx="4" fill="#ffffff" fill-opacity=".85"/><text x="205.0" y="290.0" text-anchor="middle" font-size="11" fill="#1a7f37">CB2 · 93 MW · 63%</text>
+<line x1="430" y1="110" x2="300" y2="380" stroke="#1a7f37" stroke-opacity=".18" stroke-width="9"/>
+<line x1="430" y1="110" x2="300" y2="380" stroke="#1a7f37" stroke-width="3" stroke-dasharray="10 9"><animate attributeName="stroke-dashoffset" from="19" to="0" dur="2.02s" repeatCount="indefinite"/></line>
+<rect x="356.0" y="236.0" width="18" height="18" fill="#cf222e" stroke="#ffc2c8"/>
+<rect x="303.0" y="258.0" width="124.0" height="17" rx="4" fill="#ffffff" fill-opacity=".85"/><text x="365.0" y="270.0" text-anchor="middle" font-size="11" fill="#1a7f37">CB3 · 6 MW · 10%</text>
+<line x1="430" y1="110" x2="740" y2="130" stroke="#1a7f37" stroke-opacity=".18" stroke-width="9"/>
+<line x1="430" y1="110" x2="740" y2="130" stroke="#1a7f37" stroke-width="3" stroke-dasharray="10 9"><animate attributeName="stroke-dashoffset" from="19" to="0" dur="1.31s" repeatCount="indefinite"/></line>
+<rect x="576.0" y="111.0" width="18" height="18" fill="#cf222e" stroke="#ffc2c8"/>
+<rect x="519.5" y="133.0" width="131.0" height="17" rx="4" fill="#ffffff" fill-opacity=".85"/><text x="585.0" y="145.0" text-anchor="middle" font-size="11" fill="#1a7f37">CB4 · 57 MW · 49%</text>
+<line x1="300" y1="380" x2="600" y2="400" stroke="#1a7f37" stroke-opacity=".18" stroke-width="9"/>
+<line x1="300" y1="380" x2="600" y2="400" stroke="#1a7f37" stroke-width="3" stroke-dasharray="10 9"><animate attributeName="stroke-dashoffset" from="19" to="0" dur="1.30s" repeatCount="indefinite"/></line>
+<rect x="441.0" y="381.0" width="18" height="18" fill="#cf222e" stroke="#ffc2c8"/>
+<rect x="384.5" y="403.0" width="131.0" height="17" rx="4" fill="#ffffff" fill-opacity=".85"/><text x="450.0" y="415.0" text-anchor="middle" font-size="11" fill="#1a7f37">CB5 · 55 MW · 50%</text>
+<line x1="740" y1="130" x2="600" y2="400" stroke="#1a7f37" stroke-opacity=".18" stroke-width="9"/>
+<line x1="740" y1="130" x2="600" y2="400" stroke="#1a7f37" stroke-width="3" stroke-dasharray="10 9"><animate attributeName="stroke-dashoffset" from="19" to="0" dur="1.80s" repeatCount="indefinite"/></line>
+<rect x="661.0" y="256.0" width="18" height="18" fill="#cf222e" stroke="#ffc2c8"/>
+<rect x="604.5" y="278.0" width="131.0" height="17" rx="4" fill="#ffffff" fill-opacity=".85"/><text x="670.0" y="290.0" text-anchor="middle" font-size="11" fill="#1a7f37">CB6 · 13 MW · 22%</text>
+<line x1="740" y1="130" x2="880" y2="370" stroke="#1a7f37" stroke-opacity=".18" stroke-width="9"/>
+<line x1="740" y1="130" x2="880" y2="370" stroke="#1a7f37" stroke-width="3" stroke-dasharray="10 9"><animate attributeName="stroke-dashoffset" from="19" to="0" dur="1.50s" repeatCount="indefinite"/></line>
+<rect x="801.0" y="241.0" width="18" height="18" fill="#cf222e" stroke="#ffc2c8"/>
+<rect x="744.5" y="263.0" width="131.0" height="17" rx="4" fill="#ffffff" fill-opacity=".85"/><text x="810.0" y="275.0" text-anchor="middle" font-size="11" fill="#1a7f37">CB7 · 43 MW · 39%</text>
+<line x1="600" y1="400" x2="880" y2="370" stroke="#1a7f37" stroke-opacity=".18" stroke-width="9"/>
+<line x1="600" y1="400" x2="880" y2="370" stroke="#1a7f37" stroke-width="3" stroke-dasharray="10 9"><animate attributeName="stroke-dashoffset" from="19" to="0" dur="1.88s" repeatCount="indefinite"/></line>
+<rect x="731.0" y="376.0" width="18" height="18" fill="#cf222e" stroke="#ffc2c8"/>
+<rect x="674.5" y="398.0" width="131.0" height="17" rx="4" fill="#ffffff" fill-opacity=".85"/><text x="740.0" y="410.0" text-anchor="middle" font-size="11" fill="#1a7f37">CB8 · 18 MW · 18%</text>
+<line x1="58" y1="150" x2="162" y2="150" stroke="#bf8700" stroke-width="8" stroke-linecap="round"/>
+<text x="110" y="116" text-anchor="middle" font-size="12" font-weight="700" fill="#1f2328">BUS 1 · G1 THERMAL</text>
+<text x="110" y="132" text-anchor="middle" font-size="11" fill="#1a7f37">1.040 pu ∠ 0.0°</text>
+<line x1="110" y1="154" x2="110" y2="178" stroke="#bf8700" stroke-width="2.5"/>
+<circle cx="110" cy="196" r="18" fill="#f6f8fa" stroke="#bf8700" stroke-width="2.5"/>
+<path d="M100,196 q5,-10 10,0 q5,10 10,0" fill="none" stroke="#bf8700" stroke-width="2.5"/>
+<text x="110" y="230" text-anchor="middle" font-size="11" fill="#bf8700">197 MW · +22 MVAr</text>
+<line x1="378" y1="110" x2="482" y2="110" stroke="#0969da" stroke-width="8" stroke-linecap="round"/>
+<text x="430" y="76" text-anchor="middle" font-size="12" font-weight="700" fill="#1f2328">BUS 2 · CITY</text>
+<text x="430" y="92" text-anchor="middle" font-size="11" fill="#1a7f37">1.014 pu ∠ -5.5°</text>
+<line x1="468" y1="118" x2="468" y2="150" stroke="#1f2328" stroke-width="2"/><path d="M462,150 L474,150 L468,160 Z" fill="#1f2328"/><text x="480" y="158" font-size="10.5" fill="#1f2328">38 MW</text>
+<line x1="248" y1="380" x2="352" y2="380" stroke="#0969da" stroke-width="8" stroke-linecap="round"/>
+<text x="300" y="438" text-anchor="middle" font-size="12" font-weight="700" fill="#1f2328">BUS 3 · SUBURB</text>
+<text x="300" y="454" text-anchor="middle" font-size="11" fill="#1a7f37">1.001 pu ∠ -5.9°</text>
+<line x1="338" y1="372" x2="338" y2="340" stroke="#1f2328" stroke-width="2"/><path d="M332,340 L344,340 L338,330 Z" fill="#1f2328"/><text x="350" y="340" font-size="10.5" fill="#1f2328">42 MW</text>
+<line x1="688" y1="130" x2="792" y2="130" stroke="#bf8700" stroke-width="8" stroke-linecap="round"/>
+<text x="740" y="96" text-anchor="middle" font-size="12" font-weight="700" fill="#1f2328">BUS 4 · G2 SOLAR</text>
+<text x="740" y="112" text-anchor="middle" font-size="11" fill="#1a7f37">1.020 pu ∠ -10.2°</text>
+<line x1="792" y1="130" x2="830" y2="130" stroke="#bf8700" stroke-width="2.5"/>
+<circle cx="848" cy="130" r="18" fill="#f6f8fa" stroke="#bf8700" stroke-width="2.5"/>
+<circle cx="848" cy="130" r="6" fill="#bf8700"/>
+<line x1="857.0" y1="130.0" x2="861.0" y2="130.0" stroke="#bf8700" stroke-width="1.8"/>
+<line x1="854.4" y1="136.4" x2="857.2" y2="139.2" stroke="#bf8700" stroke-width="1.8"/>
+<line x1="848.0" y1="139.0" x2="848.0" y2="143.0" stroke="#bf8700" stroke-width="1.8"/>
+<line x1="841.6" y1="136.4" x2="838.8" y2="139.2" stroke="#bf8700" stroke-width="1.8"/>
+<line x1="839.0" y1="130.0" x2="835.0" y2="130.0" stroke="#bf8700" stroke-width="1.8"/>
+<line x1="841.6" y1="123.6" x2="838.8" y2="120.8" stroke="#bf8700" stroke-width="1.8"/>
+<line x1="848.0" y1="121.0" x2="848.0" y2="117.0" stroke="#bf8700" stroke-width="1.8"/>
+<line x1="854.4" y1="123.6" x2="857.2" y2="120.8" stroke="#bf8700" stroke-width="1.8"/>
+<text x="848" y="164" text-anchor="middle" font-size="11" fill="#bf8700">0 MW · +66 MVAr</text>
+<text x="848" y="178" text-anchor="middle" font-size="9.5" fill="#57606a">driven by live Dhaka irradiance</text>
+<line x1="548" y1="400" x2="652" y2="400" stroke="#0969da" stroke-width="8" stroke-linecap="round"/>
+<text x="600" y="458" text-anchor="middle" font-size="12" font-weight="700" fill="#1f2328">BUS 5 · CAMPUS</text>
+<text x="600" y="474" text-anchor="middle" font-size="11" fill="#1a7f37">0.987 pu ∠ -10.7°</text>
+<line x1="638" y1="392" x2="638" y2="360" stroke="#1f2328" stroke-width="2"/><path d="M632,360 L644,360 L638,350 Z" fill="#1f2328"/><text x="650" y="360" font-size="10.5" fill="#1f2328">49 MW</text>
+<line x1="828" y1="370" x2="932" y2="370" stroke="#0969da" stroke-width="8" stroke-linecap="round"/>
+<text x="880" y="428" text-anchor="middle" font-size="12" font-weight="700" fill="#1f2328">BUS 6 · INDUSTRY</text>
+<text x="880" y="444" text-anchor="middle" font-size="11" fill="#1a7f37">0.980 pu ∠ -12.5°</text>
+<line x1="918" y1="362" x2="918" y2="330" stroke="#1f2328" stroke-width="2"/><path d="M912,330 L924,330 L918,320 Z" fill="#1f2328"/><text x="930" y="330" font-size="10.5" fill="#1f2328">60 MW</text>
+<line x1="16" y1="486" x2="984" y2="486" stroke="#d0d7de"/>
+<text x="30" y="508" font-size="10" fill="#57606a" letter-spacing="1.5">LOAD SERVED</text><text x="30" y="530" font-size="17" font-weight="700" fill="#1a7f37">189/189 MW</text>
+<text x="190" y="508" font-size="10" fill="#57606a" letter-spacing="1.5">LOSSES</text><text x="190" y="530" font-size="17" font-weight="700" fill="#1f2328">7.5 MW</text>
+<text x="350" y="508" font-size="10" fill="#57606a" letter-spacing="1.5">SOLAR G2</text><text x="350" y="530" font-size="17" font-weight="700" fill="#bf8700">0 MW</text>
+<text x="510" y="508" font-size="10" fill="#57606a" letter-spacing="1.5">OPERATIONS</text><text x="510" y="530" font-size="17" font-weight="700" fill="#1f2328">0</text>
+<text x="670" y="508" font-size="10" fill="#57606a" letter-spacing="1.5">RELAY TRIPS</text><text x="670" y="530" font-size="17" font-weight="700" fill="#bc4c00">0</text>
+<text x="830" y="508" font-size="10" fill="#57606a" letter-spacing="1.5">BLACKOUTS</text><text x="830" y="530" font-size="17" font-weight="700" fill="#cf222e">0</text>
+<circle cx="34" cy="560" r="5" fill="#1a7f37"/><text x="48" y="564" font-size="11.5" fill="#1a7f37">ALL CLEAR · voltages 0.95–1.05 pu · no overloads</text>
+<text x="970" y="586" text-anchor="end" font-size="10.5" fill="#57606a">updated 2026-11-14 22:41</text>
+</svg>
