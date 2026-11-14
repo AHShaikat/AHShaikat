@@ -1,6 +1,6 @@
 <h1 align="center">Md. Al Hasan Shaikat</h1>
 
-<p align="center">Electrical & Electronic Engineer · Power Systems & Renewable Energy<br/>Dhaka, Bangladesh</p>
+<p align="center">Electrical & Electronic Engineer | Power Systems | Renewable Energy | Power Electronics Enthusiast  <br/>Dhaka, Bangladesh 🇧🇩 </p>
 
 <p align="center">
   <a href="mailto:alhasan.shaikat02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
