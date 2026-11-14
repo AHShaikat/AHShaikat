@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/ahshaikat/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHJlY3QgeD0iMyIgeT0iOSIgd2lkdGg9IjQiIGhlaWdodD0iMTIiLz48Y2lyY2xlIGN4PSI1IiBjeT0iNC44IiByPSIyLjMiLz48cGF0aCBkPSJNMTAgOWgzLjh2MS44Yy42LTEuMSAyLTIuMSA0LTIuMSAzLjMgMCA0LjIgMi4xIDQuMiA1LjJWMjFoLTR2LTYuMmMwLTEuNS0uMy0yLjctMS45LTIuNy0xLjYgMC0yLjEgMS4yLTIuMSAyLjdWMjFoLTR6Ii8%2BPC9zdmc%2B" alt="LinkedIn"/></a>
   <a href="https://scholar.google.com/citations?user=vG7kgocAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
   <a href="https://www.researchgate.net/profile/Al-Shaikat"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white" alt="ResearchGate"/></a>
-  <!--<a href="https://sites.google.com/view/ah-shaikat/home"><img src="https://img.shields.io/badge/Website-24292F?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"/></a>>
+  <!--<a href="https://sites.google.com/view/ah-shaikat/home"><img src="https://img.shields.io/badge/Website-24292F?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"/></a>-->
 </p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="Single-line diagram from a generator through a transformer and transmission line to an inverter and a solar array"></p>
