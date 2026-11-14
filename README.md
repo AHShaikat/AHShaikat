@@ -49,6 +49,8 @@ I'm an Electrical & Electronic Engineering graduate from **BRAC University**, wo
 - Techno-economic modeling of energy systems
 - FACTS devices and power electronics for the grid
 
+### --------------------------For Fun-------------------------------
+
 ### ⚡ Operate my grid
 
 This is a live 6-bus power system, **and you are the operator**. Click **⚡ Open it** or **⚡ Close it** next to a breaker and submit the issue. A bot then:
