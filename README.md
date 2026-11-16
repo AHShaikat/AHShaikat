@@ -49,7 +49,7 @@ I'm an Electrical & Electronic Engineering graduate from **BRAC University**, wo
 - Techno-economic modeling of energy systems
 - FACTS devices and power electronics for the grid
 
-### --------------------------For Fun-------------------------------
+### --------------------------
 
 ### ⚡ Operate my grid
 
@@ -129,4 +129,4 @@ The solar farm on Bus 4 follows **today's real sunlight over Dhaka**, so the gri
 
 <p align="center"><i>Always happy to talk about power systems, renewables, or research ideas.</i></p>
 
-This beautiful illustration is creadted with `ai`
+Note: This illustration is creadted with `ai` For fun
